@@ -1,0 +1,9 @@
+-초기 세팅-
+1.git clone https://github.com/닉넴/레포
+2.코딩
+
+-세팅 이후 커밋-
+1.git bash 실행
+2.git add [파일]
+3.git commit -m "설명"
+4. git push origin main
